@@ -1,0 +1,35 @@
+_repo: Bijou_39694
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39694-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gyp
+    aliases:
+    - Mirabeau, Sibylle-Gabrielle-Marie-Antoinette de Riquetti de, comtesse de Martel
+      de Janville
+    - Riquetti de Mirabeau, Sibylle-Gabrielle-Marie-Antoinette de, comtesse de Martel
+      de Janville
+    - Martel de Janville, Sibylle-Gabrielle-Marie-Antoinette de Riquetti de Mirabeau,
+      comtesse de
+    birthdate: 1849
+    deathdate: 1932
+    gutenberg_agent_id: '38133'
+    url: http://www.gutenberg.org/2009/agents/38133
+    wikipedia: http://en.wikipedia.org/wiki/Sibylle_Gabrielle_Marie_Antoinette_Riqueti_de_Mirabeau
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2012-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39694'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+title: Bijou
+url: http://www.gutenberg.org/ebooks/39694
